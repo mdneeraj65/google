@@ -1,0 +1,46 @@
+{
+  "career":
+  {
+  "info":"Energetic and passionate college student working towards a B.Tech in Computer Science at the Sree Vidyanikethan Engineering College.Aiming to use my knowledge of programming ,problem solving ,web development, and math solving to satisfy the blockchain internship at your company. "
+},
+
+"education":[
+{
+  "degree":"SSC",
+  "school":"SREE VIGNANA JYOTHI HIGH SCHOOL",
+  "data":["2013","95%"]
+},
+{
+  "degree":"INTERMEDIATE",
+  "school":"MOTHER TERESA JUNIOR COLLEGE",
+  "data":["2015","94%"]
+},
+{
+  "degree":"B.TECH",
+  "school":"SREE VIDYANIKETHAN ENGINEERING COLLEGE",
+  "data":["2019","83%"]
+}
+],
+"skills":[
+  {
+    "name":"Operating System",
+    "info":["Windows","Linux","Fedora","Ubuntu"]
+  },
+  {
+    "name":"Languages",
+    "info":["c","java","c++"]
+  },
+  {
+    "name":"Databases",
+    "info":["Oracle","Mysql","cybase"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","javascript"]
+  },
+  {
+    "name":"Frameworks",
+    "info":["Bootstrap",".net"]
+  }
+]
+}
